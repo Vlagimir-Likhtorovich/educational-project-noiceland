@@ -21,9 +21,6 @@ header {
 }
 
 
-
-
-
 .content-block {
     max-width: 1440px;
     margin: 0 auto;
@@ -45,8 +42,6 @@ header {
     font-weight: bold;
 
 }
-
-
 
 
 .navigation-left {
@@ -106,7 +101,6 @@ header {
     padding-left: 140px;
     padding-bottom: 45px;
 }
-
 
 
 .topic1 {
