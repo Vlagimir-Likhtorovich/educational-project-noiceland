@@ -1,2 +1,2 @@
-# educational-projects
-educational projects NOICELAND
+# educational-project
+educational project NOICELAND
