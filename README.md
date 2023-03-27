@@ -1,2 +1,2 @@
-# my-projects
-my projects
+# educational-projects
+educational projects NOICELAND
